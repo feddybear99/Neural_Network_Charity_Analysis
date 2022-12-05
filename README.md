@@ -37,7 +37,8 @@ Before optimization: EIN and NAME were dropped
 **Compiling, Training, and Evaluating the Model**
 -------------------
 
-Resulted with 2 hidden layers. 
+Resulted with 2 hidden layers
+
 - [x] Hidden layer #1 = 80 neurons
 - [x] Hidden layer #2 = 30 neurons
 
@@ -49,4 +50,12 @@ Resulted with 2 hidden layers.
 <img width="644" alt="resultdata" src="https://user-images.githubusercontent.com/106992995/205578762-847e4734-2b67-4dde-8113-950d6d1e7d28.png">
 
 
+## Summary ##
+--------------
+ 
+See checked list in *Compiling, Training, and Evaluating the Model* above. 
+
+Reccomendations for improvement: 
+- Random Forest model instead because its easier to use for classification analyses
+- Adding another hidden layer to boost accuracy 
 
