@@ -27,9 +27,9 @@ The purpose of this analysis is to analyze the impact of each donation and vet p
 - ASK_AMT = Funding amount requested
 
 
-Variables that are neither targets nor features, and should be removed from the input data: 
+>Variables that are neither targets nor features, and should be removed from the input data: 
 
-Before optimization, EIN and NAME were dropped
+Before optimization: EIN and NAME were dropped
 
 <img width="1033" alt="dropEIN" src="https://user-images.githubusercontent.com/106992995/205575553-e3975743-22ad-47a4-ae31-46a913514aeb.png">
 
